@@ -31,7 +31,7 @@ body {
 }
 
 #app {
-  background-image: url("./assets/1208599.png");
+  background-image: url("./assets/f9e075853b776da14464ccb20ad51d68.jpg");
   background-size: cover;
   background-position: bottom;
   transition: 0.5s;
@@ -41,7 +41,7 @@ main {
   min-height: 100vh;
   padding: 25px;
 
-  /* background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75)); */
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.75));
 }
 
 .search-box {
